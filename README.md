@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkateshmanda15
+[![Linkedin Badge](https://img.shields.io/badge/-Venkatesh Manda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkateshmanda15
 )](https://www.linkedin.com/in/venkateshmanda15
 )
 
